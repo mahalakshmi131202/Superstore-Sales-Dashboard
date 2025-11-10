@@ -14,4 +14,7 @@ The process involved:
 * **Google Looker Studio:** For dashboarding
 * **Git & GitHub:** For version control
 
+### Dashboard
+Here is the final dashboard.
+[View the live, interactive dashboard here](https://lookerstudio.google.com/reporting/db309433-8a95-40dc-a0f4-7d25fa9570d1)
 ---
